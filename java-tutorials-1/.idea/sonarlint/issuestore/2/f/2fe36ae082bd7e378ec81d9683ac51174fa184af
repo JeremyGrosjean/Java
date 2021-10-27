@@ -1,0 +1,7 @@
+
+Q
+java:S1656"/Remove or correct this useless self-assignment.(šÃˆ°ÿÿÿÿÿ8õæ»»Ê/
+M
+java:S1068"+Remove this unused "content" private field.(ÃÇÿôøÿÿÿÿ8É®»Ê/
+„
+java:S4165"bRemove this useless assignment; "page" already holds the assigned value along all execution paths.(šÃˆ°ÿÿÿÿÿ8ùæ»»Ê/
