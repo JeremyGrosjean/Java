@@ -95,9 +95,9 @@ public class Tri {
 //            System.out.println(word + " -- " + chapterList);
 //        });
 
-        for(Map.Entry<String, Set<String>> entry : index.entrySet()){
-            System.out.println(entry.getKey() + " : " + entry.getValue());
-        }
+            for (Map.Entry<String, Set<String>> entry : index.entrySet()) {
+                System.out.println(entry.getKey() + " : " + entry.getValue());
+            }
         }
 
 
