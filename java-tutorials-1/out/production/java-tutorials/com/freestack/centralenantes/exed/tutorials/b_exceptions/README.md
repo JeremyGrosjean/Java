@@ -1,6 +1,6 @@
 
 
-Créer un programme,  qui retourne pour un entier compris entre 1 et 7 retourne le jour de la semaine correspondant.
+Créer un programme,  qui retourne pour un entier compris entre 1 et 7, le jour de la semaine correspondant.
 2 programmes l’appelant ont des besoins différents, l’un a absolument besoin du nom du jour, sinon il doit informer l’utilisateur qu’il y a eu un problème.
 L’autre veut une réponse lisible, quelle qu’elle soit, mais un jour, au pire le jour d’aujourd’hui.
 

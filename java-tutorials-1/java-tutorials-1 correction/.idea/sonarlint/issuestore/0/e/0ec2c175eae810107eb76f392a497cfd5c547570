@@ -1,0 +1,14 @@
+
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Ïû
+}
+java:S11929"[Define a constant instead of duplicating this literal "A family and much children" 3 times.(£¿´Æûÿÿÿÿ8ñ ØçÉ/
+f
+java:S11920"KDefine a constant instead of duplicating this literal "Chapter 1b" 3 times.(±§êİüÿÿÿÿ
+_
+java:S1192&"IDefine a constant instead of duplicating this literal "The End?" 3 times.(õóù
+`
+java:S1192"JDefine a constant instead of duplicating this literal "Chapter 2" 3 times.(×·ô
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ñ}
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öà€‡ÿÿÿÿÿ
+f	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞĞ›ù
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ú‘8“ÈÏçÉ/

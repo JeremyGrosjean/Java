@@ -1,0 +1,19 @@
+
+`	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(ØåìËşÿÿÿÿ
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ç°¹Ù8›ÛĞ™É/
+]
+java:S1854"";Remove this useless assignment to local variable "dayWeek".(ÍÆâßüÿÿÿÿ8“±ÅÈÉ/
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Áãíğüÿÿÿÿ
+N
+java:S1481"",Remove this unused "dayWeek" local variable.(ÍÆâßüÿÿÿÿ8™±ÅÈÉ/
+X	java:S125#"<This block of commented-out lines of code should be removed.(ıà‹’8š±ÅÈÉ/
+a
+java:S2147,"DCombine this catch with the one at line 42, which has the same body.(”ı¾8ñ¿™É/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¢ˆ¥8Óè»™É/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(§õÒ8Óè»™É/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(§õÒ8Ôè»™É/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(•Òıùÿÿÿÿ8Ôè»™É/
+P
+java:S1144&".Remove this unused private "extracted" method.(ôÄÃˆøÿÿÿÿ8 ±ÅÈÉ/
+W
+java:S11430"5Remove this return statement from this finally block.(ô­Æ¡ùÿÿÿÿ8Öè»™É/
