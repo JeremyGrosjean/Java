@@ -12,7 +12,6 @@ public class Chapter {
     }
 
     public Chapter(String name, String content) {
-        this.page = page;
         this.name = name;
         this.content = content;
     }
@@ -33,5 +32,13 @@ public class Chapter {
     public Chapter setName(String name) {
         this.name = name;
         return this;
+    }
+
+    public String getContent() {
+        return content;
+    }
+
+    public void setContent(String content) {
+        this.content = content;
     }
 }

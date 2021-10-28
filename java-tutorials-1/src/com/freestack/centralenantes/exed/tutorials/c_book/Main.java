@@ -1,8 +1,22 @@
 package com.freestack.centralenantes.exed.tutorials.c_book;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 public class Main {
 
     static String nearestChapter(Chapter[] chapters, int page) {
+//        int nearestChapterPage;
+//        for (int index = 0; index < chapters.length-1; index++){
+//            int chapterPage = chapters[index].getPage();
+//            int nextChapterPage = chapters[index+1].getPage();
+//            if ((page-chapterPage) < (page-nextChapterPage)){
+//                nearestChapterPage = chapterPage;
+//            } else {
+//                nearestChapterPage = nextChapterPage;
+//            }
+//        }
+//
         return "";
     }
 

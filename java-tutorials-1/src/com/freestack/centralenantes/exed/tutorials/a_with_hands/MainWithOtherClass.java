@@ -5,7 +5,7 @@ public class MainWithOtherClass {
     static void callWelcomeService(){
         WelcomeService welcomeService = new WelcomeService();
 
-        // add some code here to modify value of field in welcomeService
+        welcomeService.setHelloWord("Hello World");
 
         System.out.println(welcomeService.sayHello());
     }
@@ -20,7 +20,13 @@ class WelcomeService {
 
     private String helloWord = "Ola todos"; // This line should not be modified
 
-    // add some code here to make helloWorld accessible from outside
+    public String getHelloWord() {
+        return helloWord;
+    }
+
+    public void setHelloWord(String helloWord) {
+        this.helloWord = helloWord;
+    }
 
     public String sayHello(){
         return this.helloWord;
